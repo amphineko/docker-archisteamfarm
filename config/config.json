@@ -1,0 +1,6 @@
+{
+    "AutoRestart": false,
+    "Headless": true,
+    "IPC": true,
+    "SteamTokenDumperPluginEnabled": true
+}
